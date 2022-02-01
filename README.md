@@ -1,11 +1,13 @@
-# Ferias_Calculo
+# Ferias_Cálculo
 
- Cálculo Referente a um aluguel de uma casa na praia, divisão de gastos.
+ Cálculo Referente ao aluguel da casa na praia, divisão de gastos.
 
-Automatizando os cálculos de gastos de alguns amigos que estarão em famílias que irão passar uma temporada na casa alugada Praia.
+Automatizando os cálculos de gastos de alguns amigos, que estarão com suas famílias, que irão passar uma temporada na casa alugada Praia.
 
-Sabendo que todos os gastos serão reunidos e divididos entre as respectivas famílias por sua quantidade.
+Sabendo que todos os gastos serão reunidos e divididos entre as respectivas famílias por sua quantidade de pessoas.
 
-A condição de passar vários dias e ainda reunir todas as notas e depois cálcular tudo e gerir essa divisão, gera uma certa complicação.
-Então porque não automatizar esse desafio, eu encontrei uma forma de treinar o que aprendi até hoje com python em 18 dias, para trazer resultado e felicidade em saber que em alguns segundos conseguimos dividir todos os cálculos e ninguém sairá descontente.
+A condição de passar vários dias e ainda reunir todas as notas e depois cálcular tudo, e gerir essa divisão, gera uma certa complicação e dificuldade.
+Então porque não automatizar esse desafio, eu encontrei uma forma de treinar o que aprendi até hoje com python em 18 dias de aprendizado, para trazer resultado automatizando tempo e otimizando felicidade em saber que em alguns segundos conseguimos resolver todos os cálculos.
+
+Jonathan Manoel - Inicio em Python dia 17/01/2022
 
