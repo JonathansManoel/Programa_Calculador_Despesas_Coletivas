@@ -1,4 +1,4 @@
-# Ferias_Cálculo
+# Férias_Cálculo
 
  Cálculo Referente ao aluguel da casa na praia, divisão de gastos.
 
