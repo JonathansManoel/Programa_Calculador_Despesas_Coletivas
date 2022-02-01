@@ -2,7 +2,7 @@
 
  Cálculo Referente ao aluguel da casa na praia, divisão de gastos.
 
-Automatizando os cálculos de gastos de alguns amigos, que estarão com suas famílias, que irão passar uma temporada na casa alugada Praia.
+Automatizando os cálculos de gastos de alguns amigos, que estarão com suas famílias, que irão passar uma temporada na casa alugada na Praia.
 
 Sabendo que todos os gastos serão reunidos e divididos entre as respectivas famílias por sua quantidade de pessoas.
 
